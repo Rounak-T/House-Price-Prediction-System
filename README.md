@@ -42,12 +42,12 @@ Trained and compared 5 models:
 | Ridge Regression | 0.55 |
 | Random Forest | 0.66 |
 | LightGBM | 0.68 |
-| XGBoost (tuned) | **0.746** |
+| XGBoost (tuned) | **0.745** |
 
 Hyperparameter tuning done using RandomizedSearchCV with 5-fold cross validation.
 
 ### Final Model
-**XGBoost Regressor — R² 0.746, selected as final model**
+**XGBoost Regressor — R² 0.745, selected as final model**
 
 ## Tech Stack
 - Python, Pandas, NumPy
